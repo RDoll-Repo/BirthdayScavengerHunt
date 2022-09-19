@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BirthdayScavengerHunt</string>
+    <string name="happy_birthday_text">Happy Birthday Maweiner Bowzy!</string>
+    <string name="intro_blurb">
+        We\'re going to play a game for your birthday.\n
+        Basically this app has a series of scavenger hunt locations, each with a four digit code.\n
+        When you find the code, type it into the text box below the prompt.\n\n
+        Oh, and if you get stuck, each prompt has a couple hints.\n
+        Don\'t be a bitch tho. I\'ll know how many you used. \n
+        Love you, have fun!\n\n
+        PS: I know this app is uglier than sin. I tried tho :)
+    </string>
+    <string name="start_button_text">Let\'s get this shit poppin.</string>
+    <string name="field_hint_text">Code</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="hint_button_text">"I\'m a little bitch, I want a hint!"</string>
+</resources>
