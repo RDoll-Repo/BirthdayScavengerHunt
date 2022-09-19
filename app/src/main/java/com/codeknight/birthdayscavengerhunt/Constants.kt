@@ -5,7 +5,7 @@ object Constants {
         val questionsList = ArrayList<Question>()
 
         val que1 = Question (
-            "Next time we've got a night off, we need to...",
+            "We're finally going to watch this movie",
             "Roland really wants to watch this",
             "Had a hell of a time finally getting it",
             "9675"
