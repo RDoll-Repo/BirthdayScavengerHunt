@@ -14,4 +14,12 @@
     <string name="field_hint_text">Code</string>
     <string name="submit_button_text">Submit</string>
     <string name="hint_button_text">"I\'m a little bitch, I want a hint!"</string>
+    <string name="endBlurb">"That\'s the end! Hope you enjoyed it.\n
+        Sorry I hid your present behind this bullshit. This app is kinda buddy but whatever.\n
+        I love you Melina, happy birthday.\n
+        Go open your present and let\'s get dinner."</string>
+    <string name="noHints">No hints? I made this too easy.</string>
+    <string name="oneHint">At least you didn\'t use that many hints</string>
+    <string name="fourHints">You used half of the available hints. Gitgud scrub</string>
+    <string name="allHints">So is you stupid or did I make this too hard?</string>
 </resources>
