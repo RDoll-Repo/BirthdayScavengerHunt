@@ -78,6 +78,8 @@ class QuestionActivity : AppCompatActivity() {
     }
 
     fun loadResults() {
-
+        var intent = Intent(this, ResultsActivity::class.java)
+        intent.putExtra("hintsUsed", this.HintsUsed)
+        startActivity(intent)
     }
 }

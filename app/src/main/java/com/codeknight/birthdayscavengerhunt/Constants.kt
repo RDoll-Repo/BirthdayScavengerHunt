@@ -5,9 +5,9 @@ object Constants {
         val questionsList = ArrayList<Question>()
 
         val que1 = Question (
-            "We're finally going to watch this movie",
-            "Roland really wants to watch this",
-            "Had a hell of a time finally getting it",
+            "You think your usual road rage is bad",
+            "Gets even worse with four people",
+            "Can you stop fucking throwing banana peels?",
             "9675"
         )
 
